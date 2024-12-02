@@ -66,7 +66,7 @@ const onClickHandler = () =>{
         initial={{opacity :0}}
         animate={{opacity :1}}
         transition={{default :{duration:0.5 },opacity :{delay : 0.8 ,duration: 1}}}
-        >Generate Images 
+        onClick={onClickHandler}>Generate Images 
             <img className="h-6" src={assets.star_group} alt="" />
         </motion.button>
 
