@@ -92,7 +92,7 @@ useEffect(()=>{
         </div>
 
         <p className="text-sm text-blue-600 my-4 
-        cursor-pointer">Forgot Passowrd</p>
+        cursor-pointer">Forgot Password</p>
 
         <button className="bg-blue-600 w-full text-white py-2 rounded-full
         ">{state === 'Login' ? 'Login' : 'Create Account'}</button>
