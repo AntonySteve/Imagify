@@ -29,9 +29,9 @@ The system ensures structured request handling and smooth user interaction.
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js / Next.js
+- React.js 
 - Axios / Fetch API
-- Responsive CSS / Tailwind (if used)
+- Tailwind 
 
 ### Backend
 - Node.js
@@ -39,7 +39,7 @@ The system ensures structured request handling and smooth user interaction.
 - REST API Architecture
 - Middleware-based request handling
 
-### Database (if used)
+### Database 
 - MongoDB (for storing users/history)
 
 ### External Integration
